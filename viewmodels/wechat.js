@@ -1,7 +1,7 @@
 console.log('load wechat.js');
 
 // const access_token = '17_Wi7SeShqk1mfoZhLCjtH9Xpd56-0gFoqKTw86Ni4jWzfXNUoOBco5eTRo_BohtfogQR3sqJTSQXuIhRrEG-cqM8nvyIKVr3jS9BF6cSZG-QuftGgZ5-dXUpjG7DdqGr3HNAPT1ga9_aoo8NEGOQiAAAUCE';
-const ticket = 'LIKLckvwlJT9cWIhEQTwfJuU557garB7J1tppEvMocXJ1-rhuZap-KCuKJkIf4Xau9hPn1Ac4qaSalLl4lYwrA';
+const ticket = 'VUkHJgW2SFNG4xhs6ZntSL35nGyqqZyY5oqsbAHM9SPJ2vQSV20GaHQ6P9PDlLnypVnDtxw0QtGYqyIc8kBw_g';
 
 const appId = 'wx93df1991b444d85e';
 const timestamp = Date.now();

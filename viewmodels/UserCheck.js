@@ -1,7 +1,7 @@
 app = new Vue({
     el: '#app',
     data: {
-        ticket: 'LIKLckvwlJT9cWIhEQTwfJuU557garB7J1tppEvMocWYceaaflsOr_IsIMyzBF5AcbOXObAKaeDhZLIm3GjpTg',
+        ticket: 'VUkHJgW2SFNG4xhs6ZntSL35nGyqqZyY5oqsbAHM9SPJ2vQSV20GaHQ6P9PDlLnypVnDtxw0QtGYqyIc8kBw_g',
         appId: 'wx93df1991b444d85e',
         openid: '',
         currentLatitude: '',
