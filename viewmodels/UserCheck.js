@@ -1,7 +1,7 @@
 app = new Vue({
     el: '#app',
     data: {
-        ticket: 'VUkHJgW2SFNG4xhs6ZntSL35nGyqqZyY5oqsbAHM9SPJ2vQSV20GaHQ6P9PDlLnypVnDtxw0QtGYqyIc8kBw_g',
+        ticket: 'VUkHJgW2SFNG4xhs6ZntSL35nGyqqZyY5oqsbAHM9SM7SnXgpQDmR8OFR8VvZ7kv2Q0cwwfhS6KNzND-xYsauw',
         appId: 'wx93df1991b444d85e',
         openid: '',
         currentLatitude: '',
@@ -121,7 +121,7 @@ app = new Vue({
         getCurrentStatus() {
             axios.get('/user/getCurrentStatus', {
                 params: {
-                    openid: 'o7x-B5hSCIMqMxwtpxhiMp5tCA1w'
+                    openid: this.openid
                 }
             })
                 .then(function (response) {
